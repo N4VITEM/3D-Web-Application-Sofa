@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="https://github.com/N4VITEM/ipoteka/blob/main/logo.png?raw=true" alt="img">
+</h1>
+
 # Добро пожаловать !
 _Проект - Интеграция 3D в верстку web-приложения_
 
