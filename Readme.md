@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/N4VITEM/ipoteka/blob/main/logo.png?raw=true" alt="img">
+<img src="https://github.com/N4VITEM/3D-Web-Application-Sofa/blob/Application/threeJS.png?raw=true" alt="img" width="128">
 </h1>
 
 # Добро пожаловать !
