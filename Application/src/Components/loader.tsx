@@ -5,7 +5,7 @@ import { GLTFLoader } from "three/examples/jsm/Addons.js";
 import { Center, Flex, Loader, Text } from "@mantine/core";
 
 export default function Sofa({ setCameras }: { setCameras: (cameras: THREE.PerspectiveCamera[]) => void }) {
-    const gltf = useLoader(GLTFLoader, "/Models/scene.gltf");
+    const gltf = useLoader(GLTFLoader, "https://s3.ru1.storage.beget.cloud/9394327c3731-metkalevdigitalsystems/scene.gltf");
 
     useEffect(() => {
         const perspectiveCameras = gltf.cameras?.filter(
