@@ -1,0 +1,5 @@
+header { 
+    background-color: rgba(239, 245, 240, 0.662) !important;
+    backdrop-filter: blur(20px);
+    border: none !important;
+}
